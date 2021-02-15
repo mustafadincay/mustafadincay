@@ -31,9 +31,9 @@
 
 ---
 
-[twitter]: https://twitter.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com/mustafadincayy
+[instagram]: https://instagram.com/mustafadincay
+[linkedin]: https://linkedin.com/in/mustafadincay
 [link-github]: https://github.com/
 [link-git]: https://git-scm.com/
 [link-mysql]: https://www.mysql.com/
