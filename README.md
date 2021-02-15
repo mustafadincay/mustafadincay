@@ -1,6 +1,6 @@
 ### Hi there, I'm Mustafa 👋
 
-## I'm a Self-Learner and Jr. Software Engineer
+## I'm a self-learner Jr. software engineer
 
 - 🏫 I’m currently learning JavaScript very deeply 💻
 - 👯 I’m looking to collaborate with other developers to build something good
