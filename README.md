@@ -2,16 +2,15 @@
 
 ## An android developer on his way to becoming a Jedi [<img align="center" alt="mustafadincay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />][linkedin]
 
-- 👯 I’m looking to collaborate with other developers to build something good
-- 🥅 I'm currently learning Kotlin❤
-- ⚡ Fun fact: I love to play chess and ping pong
+- 👯 I’m looking to collaborate with other developers to build something good #staytogether
+- 🥅 I'm learning the master tricks of Kotlin❤️ and Android❤️ right now
+- ⚡ Fun fact: I love to play ping pong and unfortunately I'm a feeder on Valorant😇
 
 ### Connect with me:
 [<img align="left" alt="mustafadincay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mustafadincay | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="mustafadincay | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="mustafadincay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="mustafadincay | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
 
@@ -34,7 +33,6 @@
 [gmail]: mailto:mustafadincay@gmail.com
 [twitter]: https://twitter.com/mustafadincayy
 [instagram]: https://instagram.com/mustafadincay
-[telegram]: https://t.me/mustafadincay
 [link-android]: https://www.android.com/
 [link-kotlin]: https://kotlinlang.org/
 [link-java]: https://www.java.com
