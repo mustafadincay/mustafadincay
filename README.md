@@ -3,7 +3,7 @@
 ## An android developer on his way to becoming a Jedi [<img align="center" alt="mustafadincay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />][linkedin]
 
 - 👯 I’m looking to collaborate with other developers to build something good #staytogether
-- 🥅 I'm learning the master tricks of Kotlin❤️ and Android❤️ right now
+- 🥅 I'm learning the master tricks of Jetpack Compose❤️ and Android❤️ right now
 - ⚡ Fun fact: I love to play ping pong and unfortunately I'm a feeder on Valorant😇
 
 ### Connect with me:
